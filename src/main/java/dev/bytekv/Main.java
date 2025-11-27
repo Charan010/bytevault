@@ -1,4 +1,4 @@
-package dev.bytekv;
+/*package dev.bytekv;
 
 import dev.bytekv.core.KeyValue;
 import io.javalin.Javalin;
@@ -82,3 +82,4 @@ public class Main {
         }));
     }
 }
+*/
